@@ -4,7 +4,6 @@ import { Link } from 'gatsby'
 import Layout from '../components/layout'
 import Image from '../components/image'
 
-
 const IndexPage = () => (
   <Layout>
     <h1>Hey I'm Dreyah. Learning about Gatsby!</h1>
@@ -16,6 +15,5 @@ const IndexPage = () => (
     {/* <Link to="page-2">Go to page 2</Link> */}
   </Layout>
 )
-
 
 export default IndexPage
